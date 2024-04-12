@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" width=400 alt="coding" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" width=400 alt="coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamya94&label=Profile%20views&color=0e75b6&style=flat" alt="shivamya94" /> </p>
 
